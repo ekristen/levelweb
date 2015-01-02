@@ -1,6 +1,6 @@
 {
   "name": "levelweb",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "LevelDB over http or https.",
   "main": "index.js",
   "scripts": {
